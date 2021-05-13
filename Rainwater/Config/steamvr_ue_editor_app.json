@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.virtual-reality-bp-game-template-15973114.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "C:/Users/gdavis9658/Documents/Unreal Projects/Rainwater/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "C:/Users/gdavis9658/Documents/GitHub/Rainwater_V0.1/Rainwater/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
